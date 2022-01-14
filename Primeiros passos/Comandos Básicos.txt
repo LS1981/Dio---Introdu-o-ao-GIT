@@ -1,0 +1,9 @@
+Comandos Básicos
+
+ls - listar
+cd - muda o repositório
+cd .. - retorna o repositório 
+mkdir - cria repositório
+rmdir - remove o repositório com todos arquivos
+del - remove apenas os arquivos
+Ctrl + l - limpa a tela
